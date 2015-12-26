@@ -1,6 +1,8 @@
 # PDF Split (py-pdfsplit)
 A simple Python script with a Qt GUI which performs quick pages-splitting on PDF files
 
+![Screenshot](/docs/screenshot.png?raw=true)
+
 ### Requirements:
 - Python 2
 - PyPdf
