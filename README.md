@@ -1,4 +1,4 @@
-# PDF Split (py-pdfsplit)
+# QT PDF Split
 A simple Python script with a Qt GUI which performs quick pages-splitting on PDF files
 
 ![Screenshot](/docs/screenshot.png?raw=true)
